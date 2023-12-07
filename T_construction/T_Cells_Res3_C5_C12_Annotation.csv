@@ -1,0 +1,37 @@
+leiden_resolution_3_C5_C12,AIFI_L1,AIFI_L1_Final,AIFI_L2,AIFI_L2_Final,AIFI_L3,AIFI_L3_Final
+0,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+1,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+2,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+3,T cells,Yes,CD4 memory,Yes,CD4 KLRF1- CD27- memory,Yes
+4,NK cells,Yes,Activated NK,Yes,Activated NK,Yes
+5,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+6,T cells,Yes,CD4 memory,Yes,CD4 KLRF1- CD27- memory,Yes
+7,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+8,T cells,Yes,"gdT ",No,"gdT ",No
+9,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+10,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+11,T cells,Yes,CD8 memory,Yes,CD8 KLRF1+ CD27- EM,Yes
+12,T cells,Yes,CD8 memory,Yes,CD8 KLRF1+ CD27- EM,Yes
+13,T cells,Yes,CD8 memory,Yes,CD8 KLRF1+ CD27- EM,Yes
+14,T cells,Yes,"gdT ",No,"gdT ",No
+15,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+16,T cells,Yes,CD8 memory,Yes,CD8 KLRF1+ CD27- EM,Yes
+17,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+18,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+19,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+20,T cells,Yes,CD4 memory,Yes,CD4 KLRF1- CD27- memory,Yes
+21,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+22,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+23,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+24,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+25,T cells,Yes,CD4 memory,Yes,CD4 KLRF1- CD27- memory,Yes
+26,Contamination,Yes,C5_C12_Contamination,Yes,C5_C12_Contamination,Yes
+27,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+28,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+29,T cells,Yes,CD8 memory,Yes,CD8 KLRF1+ CD27- EM,Yes
+30,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+31,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+32,T cells,Yes,CD4 memory,Yes,CD4 KLRF1- CD27- memory,Yes
+33,T cells,Yes,CD8 memory,Yes,"CD8 KLRF1- CD27- EM ",Yes
+34,T cells,Yes,CD4 memory,Yes,CD4 KLRF1- CD27- memory,Yes
+35,T cells,Yes,CD8 memory,Yes,CD8 KLRF1+ CD27- EM,Yes
