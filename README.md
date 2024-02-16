@@ -58,4 +58,11 @@ Subclustering, marker gene identification, and visualizations for Other cell typ
 ### 11-Python_T_cells.ipynb
 Subclustering, marker gene identification, and visualizations for T cells, including CD4, CD8, dpT, dnT, and gdT cells.
 
+## Expert Annotation
+
+Expert annotations are based on the clusters, markers, and visualizations generated in the subclustering notebooks, above.
+
+Annotation itself was performed by collaborative groups of AIFI researchers to generate 3 levels of labels for each of the major cell classes.
+
+Tables of cluster annotations were then submitted to HISE, and will be retrieved by the assembly notebooks, below.
 
