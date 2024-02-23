@@ -11,6 +11,21 @@ The sections describe the notebooks utilized for each of these major steps.
 
 These notebooks can be run sequentially based on their numeric prefix. They are also prefixed by the language/notebook kernel used in each (Python or R), as both languages are utilized in this analysis.
 
+## Contributors
+
+### Analysis
+Qiuyu Gong: Analysis lead, composed most original notebook versions  
+Mehul Sharma: Original version of 07a-Python_B_cells_without_IGHLCK.ipynb; Annotation contributor  
+Lucas Graybuck: Review, documentation, linting, and reproducibility management  
+Xiao-jun Li: Analysis oversight  
+
+### Annotation
+Marla Glass: B cell annotation lead  
+Claire Gustafson: Scientific lead; T cell annotation lead  
+Emma Kuan: Myeloid cell annotation lead  
+Tao Peng: NK cell annotation lead  
+Mehul Sharma: Annotation contributor  
+
 ## Sample selection and retrieval
 
 ### 00-R_Sample_Selection.ipynb
