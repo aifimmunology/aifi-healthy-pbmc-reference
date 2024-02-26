@@ -15,11 +15,12 @@ These notebooks can be run sequentially based on their numeric prefix. They are 
 
 ### Analysis
 Qiuyu Gong: Analysis lead, composed most original notebook versions  
-Mehul Sharma: Original version of 07a-Python_B_cells_without_IGHLCK.ipynb; Annotation contributor  
 Lucas Graybuck: Review, documentation, linting, and reproducibility management  
 Xiao-jun Li: Analysis oversight  
+Mehul Sharma: Original version of 07a-Python_B_cells_without_IGHLCK.ipynb; Annotation contributor  
 
 ### Annotation
+Aishwarya Chander: Annotation contributor; Ontology lead    
 Marla Glass: B cell annotation lead  
 Claire Gustafson: Scientific lead; T cell annotation lead  
 Emma Kuan: Myeloid cell annotation lead  
