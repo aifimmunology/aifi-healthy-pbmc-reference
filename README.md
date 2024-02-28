@@ -108,7 +108,7 @@ CD8 Naive cells are assembled and reclustered to identify subpopulations.
 Proliferating T cells are assembled and reclustered to identify subpopulations.
 
 #### 11h-Python_T_cells_gd.ipynb
-Gamma-Delta T cells are assembled and reclustered to identify subpopulations.
+Gamma-Delta T cells are assembled and reclustered to identify subpopulations. This includes gdT cells that are present in CD8 CM, CD8 EM, and MAIT cells, which are retrieved from the subclustering notebooks for these 3 types as well as a group of gdT cells that form their own cluster in the T cell overview.
 
 #### 11i-Python_T_cells_isg-high.ipynb
 Interferon-stimulated gene-high T cells are assembled and reclustered to identify subpopulations.
