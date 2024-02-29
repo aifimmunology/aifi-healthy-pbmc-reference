@@ -1,0 +1,28 @@
+,leiden_resolution_2_myeloid-dcs,AIFI_L3,AIFI_L1,AIFI_L2
+0,0,pDC,DC,pDC
+1,1,pDC,DC,pDC
+2,2,HLA-DRhi cDC2,DC,cDC2
+3,3,Core CD14 monocyte,Monocyte,CD14 monocyte
+4,4,pDC,DC,pDC
+5,5,Core CD14 monocyte,Monocyte,CD14 monocyte
+6,6,Core CD14 monocyte,Monocyte,CD14 monocyte
+7,7,Core CD14 monocyte,Monocyte,CD14 monocyte
+8,8,HLA-DRhi cDC2,DC,cDC2
+9,9,HLA-DRhi cDC2,DC,cDC2
+10,10,CD14+ cDC2,DC,cDC2
+11,11,HLA-DRhi cDC2,DC,cDC2
+12,12,Core CD14 monocyte,Monocyte,CD14 monocyte
+13,13,ISG+ cDC2,DC,cDC2
+14,14,CD14+ cDC2,DC,cDC2
+15,15,CD14+ cDC2,DC,cDC2
+16,16,CD14+ cDC2,DC,cDC2
+17,17,cDC1,DC,cDC1
+18,18,Doublet,Doublet,Doublet
+19,19,CD14+ cDC2,DC,cDC2
+20,20,Doublet,Doublet,Doublet
+21,21,ASDC,DC,ASDC
+22,22,pDC,DC,pDC
+23,23,Doublet,Doublet,Doublet
+24,24,Doublet,Doublet,Doublet
+25,25,Doublet,Doublet,Doublet
+26,26,cDC1,DC,cDC1
