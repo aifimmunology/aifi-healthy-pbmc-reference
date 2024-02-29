@@ -1,0 +1,22 @@
+,ms_leiden_2,AIFI_L3,AIFI_L1,AIFI_L2
+0,0,Core naive B cell,B cell ,Naive B cell
+1,1,Transitional B cell,B cell ,Transitional B cell
+2,3,Core naive B cell,B cell ,Naive B cell
+3,6,Core naive B cell,B cell ,Naive B cell
+4,7,Core naive B cell,B cell ,Naive B cell
+5,8,Core naive B cell,B cell ,Naive B cell
+6,9,Core naive B cell,B cell ,Naive B cell
+7,10,Core naive B cell,B cell ,Naive B cell
+8,11,CD27+ effector B cell,B cell ,Effector B cell
+9,12,Core naive B cell,B cell ,Naive B cell
+10,15,Erythrocyte contamination,Erythrocyte contamination,Erythrocyte contamination
+11,17,Core naive B cell,B cell ,Naive B cell
+12,18,CD27- effector B cell,B cell ,Effector B cell
+13,19,B_platelet doublet,B_platelet doublet,B_platelet doublet
+14,20,ISG+ naive B cell,B cell ,Naive B cell
+15,21,T_B doublet,T_B doublet,T_B doublet
+16,22,B_mono doublet,B_mono doublet,B_mono doublet
+17,23,Plasma cell,B cell ,Plasma cell
+18,24,NK_Mono doublet,NK_Mono doublet,NK_Mono doublet
+19,25,Core naive B cell,B cell ,Naive B cell
+20,26,Core naive B cell,B cell ,Naive B cell
