@@ -1,0 +1,16 @@
+,leiden_resolution_1.5_t-gd,AIFI_L3,AIFI_L1,AIFI_L1_Final,AIFI_L2,AIFI_L2_Final,AIFI_L3_Final
+0,0,GZMK+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+1,1,GZMB+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+2,2,GZMK+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+3,3,KLRF1+ effector Vd1 gdT,T cell,Yes,gdT,Yes,Yes
+4,4,GZMB+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+5,5,GZMK+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+6,6,KLRF1- effector Vd1 gdT,T cell,Yes,gdT,Yes,Yes
+7,7,Naive Vd1 gdT,T cell,Yes,gdT,Yes,Yes
+8,8,GZMB+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+9,9,Adaptive NK cell,NK cell,Yes,CD56dim NK cell,Yes,Yes
+10,10,GZMK+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+11,11,SOX4+ Vd1 gdT,T cell,Yes,gdT,Yes,Yes
+12,12,GZMB+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+13,13,GZMB+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes
+14,14,GZMK+ Vd2 gdT,T cell,Yes,gdT,Yes,Yes

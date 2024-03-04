@@ -1,0 +1,10 @@
+,leiden_resolution_1.5,AIFI_L3,AIFI_L1,AIFI_L2
+0,3,GZMK+ CD56dim NK cell,NK cell,CD56dim NK cell
+1,6,Adaptive NK cell,NK cell,CD56dim NK cell
+2,7,CD56bright NK cell,NK cell,CD56bright NK cell
+3,11,NK+T Doublets,NK cell,NK+T Doublets
+4,12,NK+Erythocytes Doublet,NK cell,NK+Erythocytes Doublet
+5,13,NK+Platelet Doublet,NK cell,NK+Platelet Doublet
+6,14,ISG+ CD56dim NK cell,NK cell,CD56dim NK cell
+7,16,Proliferating NK cell,NK cell,Proliferating NK cell
+8,17,ILC,ILC,ILC
