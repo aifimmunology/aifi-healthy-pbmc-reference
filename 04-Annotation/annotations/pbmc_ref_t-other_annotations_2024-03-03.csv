@@ -1,0 +1,17 @@
+,leiden_resolution_1.5_t-other,AIFI_L3,AIFI_L1,AIFI_L1_Final,AIFI_L2,AIFI_L2_Final,AIFI_L3_Final
+0,0,CM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+1,1,CM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+2,2,CM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+3,3,GZMK+ CD27+ EM CD8 T cell,T cell,Yes,Memory CD8 T cell,Yes,Yes
+4,4,GZMK+ CD27+ EM CD8 T cell,T cell,Yes,Memory CD8 T cell,Yes,Yes
+5,5,GZMB- CD27+ EM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+6,6,GZMB- CD27+ EM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+7,7,CM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+8,8,GZMB- CD27- EM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+9,9,GZMB- CD27- EM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+10,10,GZMB- CD27- EM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+11,11,CM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+12,12,GZMB- CD27+ EM CD4 T cell,T cell,Yes,Memory CD4 T cell,Yes,Yes
+13,13,Contamination,Contamination,Yes,Contamination,Yes,Yes
+14,14,Core naive CD4 T cell,T cell,Yes,Naive CD4 T cell,Yes,Yes
+15,15,DN T cell,T cell,Yes,DN T cell,Yes,Yes
