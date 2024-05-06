@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
 
 all["All cells\n2,093,078"] --> scrublet["Scrublet\ndoublet call"]
@@ -17,3 +18,4 @@ doublets --> fail["Failed QC\n140,950 (6.73%)"]
 high_mito --> fail
 low_genes --> fail
 high_genes --> fail
+```
