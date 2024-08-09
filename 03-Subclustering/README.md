@@ -8,14 +8,20 @@ Here, we load the assembled dataset, add the CMV and BMI information, cluster al
 ### 07-Python_B_cells.ipynb
 Subclustering, marker gene identification, and visualizations for B cells, including plasmablasts.
 
-#### 07a-Python_B_cells_without_Igs.ipynb
+ - ####  07a-Python_B_cells_without_Igs.ipynb
 B cells are also clustered without Immunoglobulins and subclustered within non-effector memory B cells. This reclustering is used for type assignment.
 
 ### 08-Python_Myeloid_cells.ipynb
 Subclustering, marker gene identification, and visualizations for Myeloid cells, including Monocytes and Dendritic cells.
 
+ - #### 08a-Python_Myeloid_cells_DCs.ipynb
+   Subsets of myeloid cells were sublustered to better define boundaries between myeloid and DC cell types.
+
 ### 09-Python_NK_cells.ipynb
 Subclustering, marker gene identification, and visualizations for NK cells, including ILCs.
+
+ - #### 09a-Python_NK_CD56dim.ipynb
+   CD56dim NK cells were subculstered to better define boundaries between GZMK-, GZMK+, and Adaptive NK cell types.
 
 ### 10-Python_Others.ipynb
 Subclustering, marker gene identification, and visualizations for Other cell types, including Platelets, Erythrocytes, and developmental progenitor populations.
@@ -25,29 +31,29 @@ Subclustering, marker gene identification, and visualizations for T cells, inclu
 
 T cell subsets are iteratively clustered to increase resolution of cell types:
 
-#### 11a-Python_T_cells_cd4-naive.ipynb
-Naive CD4 T cells are assembled and reclustered to identify subpopulations.
+- #### 11a-Python_T_cells_cd4-naive.ipynb
+  Naive CD4 T cells are assembled and reclustered to identify subpopulations.
 
-#### 11b-Python_T_cells_cd8-mait.ipynb
-MAIT cells are assembled and reclustered to identify subpopulations.
+- #### 11b-Python_T_cells_cd8-mait.ipynb
+  MAIT cells are assembled and reclustered to identify subpopulations.
 
-#### 11c-Python_T_cells_cd8-cm.ipynb
-CD8 Central Memory are assembled and reclustered to identify subpopulations.
+- #### 11c-Python_T_cells_cd8-cm.ipynb
+  CD8 Central Memory are assembled and reclustered to identify subpopulations.
 
-#### 11d-Python_T_cells_cd8-em.ipynb
-CD8 Effector Memory cells are assembled and reclustered to identify subpopulations.
+- #### 11d-Python_T_cells_cd8-em.ipynb
+  CD8 Effector Memory cells are assembled and reclustered to identify subpopulations.
 
-#### 11e-Python_T_cells_treg.ipynb
-Treg cells are assembled and reclustered to identify subpopulations.
+- #### 11e-Python_T_cells_treg.ipynb
+  Treg cells are assembled and reclustered to identify subpopulations.
 
-#### 11f-Python_T_cells_cd8-naive.ipynb
-CD8 Naive cells are assembled and reclustered to identify subpopulations.
+- #### 11f-Python_T_cells_cd8-naive.ipynb
+  CD8 Naive cells are assembled and reclustered to identify subpopulations.
 
-#### 11g-Python_T_cells_proliferating.ipynb
-Proliferating T cells are assembled and reclustered to identify subpopulations.
+- #### 11g-Python_T_cells_proliferating.ipynb
+  Proliferating T cells are assembled and reclustered to identify subpopulations.
 
-#### 11h-Python_T_cells_gd.ipynb
-Gamma-Delta T cells are assembled and reclustered to identify subpopulations. This includes gdT cells that are present in CD8 CM, CD8 EM, and MAIT cells, which are retrieved from the subclustering notebooks for these 3 types as well as a group of gdT cells that form their own cluster in the T cell overview.
+- #### 11h-Python_T_cells_gd.ipynb
+  Gamma-Delta T cells are assembled and reclustered to identify subpopulations. This includes gdT cells that are present in CD8 CM, CD8 EM, and MAIT cells, which are retrieved from the subclustering notebooks for these 3 types as well as a group of gdT cells that form their own cluster in the T cell overview.
 
-#### 11i-Python_T_cells_isg-high.ipynb
-Interferon-stimulated gene-high T cells are assembled and reclustered to identify subpopulations.
+- #### 11i-Python_T_cells_isg-high.ipynb
+  Interferon-stimulated gene-high T cells are assembled and reclustered to identify subpopulations.
