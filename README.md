@@ -17,7 +17,7 @@ These notebooks can be run sequentially based on their numeric prefix. They are 
 Qiuyu Gong: Analysis lead, composed most original notebook versions  
 Lucas Graybuck: Review, documentation, linting, and reproducibility management  
 Xiao-jun Li: Analysis oversight  
-Mehul Sharma: Original version of 07a-Python_B_cells_without_IGHLCK.ipynb
+Mehul Sharma: Original version of 07a-Python_B_cells_without_Igs.ipynb
 
 ### Annotation
 Aishwarya Chander: Annotation contributor; Ontology lead    
